@@ -1,0 +1,10 @@
+ul.errorlist {
+    display: none;
+}
+
+li.note-li{
+    color: red;
+}
+.container{
+    background-color: rgb(155, 206, 224);
+}
